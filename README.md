@@ -2,7 +2,7 @@
 
 A Flutter project showing a random cat picture and facts.
 
-![Preview](images/preview.gif?raw=true)
+<img src="images/preview.gif" height='300px'>
 
 ## Attributions
 
